@@ -1,0 +1,66 @@
+body{
+    margin: 50px;
+    background-color: azure;
+}
+header{
+    margin: 50px;
+    text-align: center;
+    background-color: azure;
+    justify-content: center;
+    
+}
+
+#divv ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    height: 40px;
+    background-color: whitesmoke;
+    align-content: center;
+}
+
+#divv li {
+    display: inline;
+    margin-right: 100px;
+
+}
+
+#mainn {
+
+    text-align: center;
+
+}
+
+#sectionn{
+
+    background-color: whitesmoke;
+    float:right;
+        
+}
+
+#articlee{
+    background-color: whitesmoke;
+    float: right;
+
+}
+
+#asidee{
+    text-align: center;
+    
+}
+
+#waffles{
+    display: grid;
+    margin-left: 50px;
+
+    
+}
+
+footer{
+    width: 100%;
+    background-color: white;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+
+}
