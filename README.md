@@ -18,8 +18,6 @@ El portafolio está diseñado para proporcionar una visión general de mis proye
 
 - **HTML5:** Para la estructura del portafolio.
 - **CSS3:** Para el diseño y la presentación visual del portafolio.
-- **JavaScript:** Para la interactividad y funcionalidad adicional.
-- **Bootstrap:** Para el diseño responsivo y componentes de interfaz de usuario.
 
 ## Instrucciones para Ejecutar el Proyecto
 
