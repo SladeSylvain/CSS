@@ -24,4 +24,4 @@ El portafolio está diseñado para proporcionar una visión general de mis proye
 1. Clona este repositorio en tu máquina local.
 
    ```bash
-   git clone https://github.com/tu-usuario/portafolio-bootcamp.git
+   git clone https://github.com/SladeSylvain/portafolio-bootcamp.git
